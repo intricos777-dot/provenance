@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 """Provenance gate: keep other authors' code out of your repos.
 
     provenance.py audit [root ...]   scan repos, report third-party code
